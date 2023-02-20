@@ -39,6 +39,6 @@ Antes de executar o código, é necessário substituir algumas variáveis com su
      ![IBM_Partner_Plus_silver_partner_mark_pos_gray50_RGB](https://user-images.githubusercontent.com/117879893/220117532-1fa70963-b0c2-4f58-8567-e7c584198157.jpg)
 
 
-"Código fornecido por Luis Claudio De Vita - Curso - MBA USPesalq - Agronegócios
+#### Código fornecido por Luis Claudio De Vita - Curso - MBA USPesalq - Agronegócios
 
 
